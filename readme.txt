@@ -5,4 +5,3 @@ git is free sofeware distributed
 git has a mutable index called stage.
 addd
 asdfd
-welrfjlewjrl
