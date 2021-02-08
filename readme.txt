@@ -1,1 +1,3 @@
-改成第二个版本的。
+git is a distributed version control system.
+
+git is free sofeware distributed
