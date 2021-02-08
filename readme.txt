@@ -1,2 +1,1 @@
-git is a control system.
-Git is free software.
+改成第二个版本的。
